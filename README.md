@@ -43,6 +43,7 @@ How:
 - The taxes are being used to operate the community and country e.g. schools, health care, streets, fresh water supplies, public transport, ..
 - Prices are calculated by amount of a good of a certain kind devided by amount of hours used by people to produce it plus the used material prices devided by duration broken down to months
 - Financial advantages (short FA) and their companies are forbitten e.g. Gambling businesses, Banks, Stock market, Foundations, ..
+- The money can not be exchanged in other currencies to be resistant against speculations
 - The money is not transferable neighter after death nor as a gift
 - Legacy is forbitten. If a property wants to be inherited, the property price has to be payed from the inheritant to the state as a tax
 - Couples who get divorced, have to legally pay what the one owes the other
