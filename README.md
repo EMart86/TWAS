@@ -8,7 +8,7 @@ Disadvantege of our current system is:
 
 As an employee:
 - your income is restricted to a contract with your employer
-- if you want to buy something more expensive and you don't have enough savings, you will have to take a credit and pay it off
+- if you want to buy something more expensive and you don't have enough savings, you will have to take a loan and pay it off
 - in order to get this credit, your bank wants a life insurrance contract or other securities, which you will also have to pay or provide
 - you are forced to earn more and more because inflation is decreasing your income
 - some marriages are destroyed by expectations to be rich and have a wonderful life as advertised by influences but due to restricted income, this expectation can hardly be met
