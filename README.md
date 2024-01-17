@@ -2,7 +2,7 @@ TAWS - Together We Are Strong
 
 Imagine a world, where everyone has an equal amount of money and noone is facing disadvanteges..
 
-Aim of this currency is to allow each and everyone to have time to think about their life.
+Aim of this exchange-good (because currency is a restricted name) is to allow each and everyone to have time to think about their life.
 
 Disadvantege of our current system is:
 
