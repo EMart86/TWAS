@@ -1,8 +1,8 @@
-TAWS - Together We Are Strong
+TWAS - Together We Are Strong
 
-Imagine a world, where everyone has an equal amount of money and noone is facing disadvanteges..
+Imagine a world, where noone is facing disadvanteges..
 
-Aim of this exchange-good (because currency is a restricted name) is to allow each and everyone to have time to think about their life.
+Aim of this exchange-good (because currency is a restricted name) is to change the common problems of this century to allow the whole world to become liveable.
 
 Disadvantege of our current system is:
 
@@ -52,7 +52,7 @@ How:
 - The taxes are being used to operate the community and country e.g. schools, health care, streets, fresh water supplies, public transport, ..
 - Prices are calculated by amount of a good of a certain kind devided by amount of hours used by people to produce it plus the used material prices devided by duration broken down to months
 - Financial advantages (short FA) and their companies are forbitten e.g. Gambling businesses, Banks, Stock market, Foundations, ..
-- The money can not be exchanged in other currencies to be resistant against devaluations
+- The money can NOT be exchanged in other currencies to be resistant against devaluations
 - The money is not transferable neighter after death nor as a gift. The account of the dead person will be closed.
 - Legacy is forbitten. If a property wants to be inherited, the property price has to be payed from the inheritant or inheritants to the state as a tax
 - Couples who get divorced, have to legally pay what the one owes to the other
@@ -61,7 +61,34 @@ How:
 - TWAS can be printed and handed over as such for legal payments
 - Many people previously working for financial institues now can use their intellectual resource to investigate and calculate outerspace effects thus bringing the human race even further
 - Copmany owners need to fund their companies of a consortium of long term investors (can also be by their employees) with their ability to take part of the decission
-- TWAS will implement a board of (TBD) members of the world of ordinary people. They can be exchanged by a public voting system. This board defines rules for this currency
+- TWAS will implement a board of (TBD) members of the world of ordinary people. They can be exchanged by a public voting system.
 
-Ground Rule:
-- No use for religiouse representation
+What is expected to change:
+
+Economy:
+- People are now working on what they really believe and what fulfills them
+- Many small, environmental-friendly farmers are expected to emerge thus producing local food with a completely low CO2 footprint
+- People are working hard on their achievements to prosper their business
+- Many small businesses are expected to emerge, because people see their chances of being able to fulfill their workdreams
+- Local business produces a smaller CO2 footprint because the demand-supply chain is in a local environment  
+- Large companies are now financeable only through stakeholder shares
+-   This influences the overall environment because one person can not decide over the whole company
+-   Bad environmental decissions and in the past carried by one person, is expected to be understood and worked against by many of the stackeholders
+- Bribary is expected to be overcome
+- Prices are calculated once a year and take affect for every 
+
+Politics:
+- Bribary is expected to be overcome because the politicans account is publicly visible
+- The government receives taxes from all its inhabitants equally
+- The government has to pay
+-   for the infrastructure (strees, public transport, ..), because everyone can use it
+-   for education (schools, kindergarten, universities, ..), because education should be very well in every part of the state
+-   and for healthcare (medicine, hospitals, doctors, nurses, ..).
+
+Finance:
+- No person or organization is allowed to lend a credit in order to gain wealth through interrest rates. 
+
+What is not changing:
+- The democratic environment will stay as before.
+
+This exchange-good is not allowed to be used as a religiouse representation!
