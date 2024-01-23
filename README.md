@@ -11,7 +11,7 @@ As an employee:
 - if you want to buy something more expensive and you don't have enough savings, you will have to take a loan and pay it off
 - in order to get this credit, your bank wants a life insurrance contract or other securities, which you will also have to pay or provide
 - you are forced to earn more and more because inflation is decreasing your income
-- some marriages are destroyed by expectations to be rich and have a wonderful life as advertised by influences but due to restricted income, this expectation can hardly be met
+- some marriages are destroyed by expectations to be rich and have a wonderful life as advertised by influencers but due to restricted income, this expectation can hardly be met
 - you are forced to create you own business in order to gain more money instead of getting payed well or take a second or third job
 - due to high expectations you are not looking well after your health which could result in heart attacks, cancer or other stresscausing deseases
 - due to high expectations you are forced to work in a business or in a job that you might not like
